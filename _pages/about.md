@@ -9,5 +9,7 @@ redirect_from:
 
 I am a pre-doctoral research assistant to Professor Amy Finkelstein at MIT’s economics department. My [research](https://rosakleinman.github.io/research/) interests are in labor and public economics, with a focus on the design of redistributive programs and the labor market outcomes of low-income workers. I graduated with a BA in Economics and Mathematics from Yale University in May 2023.
 
+A copy of my CV can be found [here](https://rosakleinman.github.io/files/RosaKleinman_CV.pdf).
+
 
 
