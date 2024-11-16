@@ -13,5 +13,5 @@ This paper studies the effect of transaction costs on the take-up and targeting 
 
 ## Work in Progress
 
-**Intra-household Inequality and the Financial Decisions of Older Couples**
+**Intra-household Inequality and the Financial Decisions of Older Couples** \\
 I design a dynamic collective model of the post-retirement-age couple, to explore the impact of the gender wage gap and other sources of intra-household inequality on later-life financial and labor market decisions. Building on the empirical strategies of existing work that studies unmarried individuals, I use an instrumental variables approach that exploits exogenous variation in Social Security benefits by birth cohort to quantify the effect of changes in relative spousal income on each spouse’s consumption, labor supply, and bequests to children. I take this variation to the model to estimate the Pareto weight that governs the distribution of resources across spouses.
