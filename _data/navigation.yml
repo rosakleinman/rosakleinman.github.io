@@ -8,5 +8,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "CV"
-    url: /cv/
+# commenting out the below to remove CV tab for now:
+#  - title: "CV"
+#    url: /cv/
