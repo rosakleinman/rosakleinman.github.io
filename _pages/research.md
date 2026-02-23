@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Publications
 
 ### "Transaction Costs and the Take-up of Social Safety Net Programs: Evidence from the Combined Application Project" (undergraduate thesis) [[link]](https://rosakleinman.github.io/files/Kleinman_CAP_Jan2026.pdf)
 ** February 2026. *Journal of Policy Analysis and Management*.** \\
