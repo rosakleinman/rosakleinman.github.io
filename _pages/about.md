@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Harvard University. My [research](https://rosakleinman.github.io/research/) interests are in labor and public economics, with a focus on the design of redistributive transfers and the determinants of labor market inequality. 
+I am a second-year Ph.D. student in Economics at Harvard University. My [research](https://rosakleinman.github.io/research/) interests are primarily in public economics and household finance. 
 
 Previously, I worked as a pre-doctoral research assistant to Professor Amy Finkelstein at MIT. I graduated with a B.A. in Economics and Mathematics from Yale University in May 2023.
 
